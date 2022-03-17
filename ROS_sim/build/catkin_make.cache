@@ -1,0 +1,2 @@
+fly_bot
+-DCATKIN_DEVEL_PREFIX=/home/purna/Quad_Simulation/devel -DCMAKE_INSTALL_PREFIX=/home/purna/Quad_Simulation/install -G Unix Makefiles
