@@ -1,1 +1,1 @@
-Main pythono code in ROS_sim/src/fly_bot/src/
+Main python code in ROS_sim/src/fly_bot/src/
